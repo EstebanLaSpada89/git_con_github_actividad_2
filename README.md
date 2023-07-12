@@ -63,3 +63,7 @@ Has creado tu primer repositorio y has subido tus cambios utilizando Git y GitHu
 
 Si tienes alguna pregunta o necesitas ayuda adicional, no dudes en consultarnos. ¡Disfruta tu experiencia en el taller de Git con GitHub en Casa del Futuro!
 
+
+gfgghjkhjkhjhklhklhkljhkljkljkljkljlkjkljkljkljkljklgit status
+
+
